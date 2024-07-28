@@ -1,0 +1,11 @@
+X-Real-IP
+X-Forwarded-For
+X-Originating-IP
+Client-IP
+True-Client-IP
+
+X-Real-IP 1.2.3.4
+X-Forwarded-For 1.2.3.4
+X-Originating-IP 1.2.3.4
+Client-IP 1.2.3.4
+True-Client-IP 1.2.3.4
